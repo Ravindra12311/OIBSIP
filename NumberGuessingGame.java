@@ -3,7 +3,7 @@ package pack1;
 import java.util.Random;
 import java.util.Scanner;
 
-public class NumberGuessingGame
+public class Ravindra_Task1
 {
 public static void main(String[]args)
 {
